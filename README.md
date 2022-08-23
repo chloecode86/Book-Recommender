@@ -1,4 +1,4 @@
-# Book-Recommender
+# Book-Recommender (streamlit application)
 
 Creators: Chole Lee, Ching Lau
 
