@@ -1,0 +1,63 @@
+.stApp.streamlit-wide  {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3)), url("https://www.incimages.com/uploaded_files/image/1920x1080/getty_496612468_2000138820009280460_336567.jpg");
+    background-size: cover;
+}
+
+.stMarkdown {
+    text-align: left;
+    color: #654a43;
+}
+
+.css-10trblm {
+    color: #654a43;
+    position: relative;
+    flex: 1 1 0%;
+    margin-left: calc(3rem);
+}
+
+
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+    padding: 15px;
+    color: #8b6f57;
+    background-color: #e1d6c7;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 16px;
+    opacity: 0.9;
+}
+
+div.css-znku1x.e16nr0p33 {
+    background-color: #ffffff8a;
+    padding:1px 20px 1px 20px;
+
+}
+
+div.css-1kyxreq.etr89bj2 {
+    background-color: #ffffff8a;
+    padding:10px 20px 10px 20px;
+    margin-bottom: -1rem;
+
+}
+
+.css-15tx938 {
+    font-size: 16px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    background-color: #ffffff8a;
+    color: rgb(49, 51, 63);
+    margin-bottom: 0.5rem;
+    height: auto;
+    min-height: 1.5rem;
+    vertical-align: middle;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.st-dn {
+    background-color: #e1ded9;
+    opacity: 0.8;
+    color: black;
+}
